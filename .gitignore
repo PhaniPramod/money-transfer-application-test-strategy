@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Operating system
+.DS_Store
+
+# Local configuration and secrets
+.env
